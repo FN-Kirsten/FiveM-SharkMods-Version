@@ -1,4 +1,4 @@
-local VersionData = {
+VersionData = {
     ['sharky_admin'] = { Version = 1.0, Note = "" },
     ['sharky_basegame'] = { Version = 1.0, Note = "" },
     ['sharky_dealership'] = { Version = 1.0, Note = "" },
