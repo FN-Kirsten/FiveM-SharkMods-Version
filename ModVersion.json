@@ -15,6 +15,7 @@
     "sharky_hud_vehicle": { "Version": 1.0, "Note": "" },
     "sharky_identifier": { "Version": 1.0, "Note": "" },
     "sharky_inventory": { "Version": 1.0, "Note": "" },
+    "sharky_lib": { "Version": 1.0, "Note": "" },
     "sharky_loadingscreen": { "Version": 1.0, "Note": "" },
     "sharky_map": { "Version": 1.0, "Note": "" },
     "sharky_minigames": { "Version": 1.0, "Note": "" },
