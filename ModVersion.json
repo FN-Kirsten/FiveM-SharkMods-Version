@@ -1,6 +1,7 @@
 {
     "sharky_admin": { "Version": 1.0, "Note": "" },
     "sharky_basegame": { "Version": 1.0, "Note": "" },
+    "sharky_character": { "Version": 1.0, "Note": "" },
     "sharky_dealership": { "Version": 1.0, "Note": "" },
     "sharky_discord": { "Version": 1.0, "Note": "" },
     "sharky_economy": { "Version": 1.0, "Note": "" },
@@ -23,6 +24,7 @@
     "sharky_music": { "Version": 1.0, "Note": "" },
     "sharky_notifications": { "Version": 1.0, "Note": "" },
     "sharky_props": { "Version": 1.0, "Note": "" },
+    "sharky_queue": { "Version": 1.0, "Note": "" },
     "sharky_searching": { "Version": 1.0, "Note": "" },
     "sharky_stats": { "Version": 1.0, "Note": "" },
     "sharky_store": { "Version": 1.0, "Note": "" },
@@ -32,5 +34,5 @@
     "sharky_vehicle_customs": { "Version": 1.0, "Note": "" },
     "sharky_weapon": { "Version": 1.0, "Note": "" },
     "sharky_weather": { "Version": 1.0, "Note": "" },
-    "sum_identifier": { "Version": 1.0, "Note": "" }
+    "sum_identifier": { "Version": 1.0, "Note": "" },
 }
